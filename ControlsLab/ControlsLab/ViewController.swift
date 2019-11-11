@@ -75,20 +75,5 @@ class ViewController: UIViewController {
         bottomLabelValue.text = "K"
         }
     }
-    
-
-    
-//    var selectedSegment:Int = 0 {
-//        didSet{
-//            switch suitSegmentButton
-//
-//
-//
-//
-//        }
-//    }
-    
-    
-    
 }
 
